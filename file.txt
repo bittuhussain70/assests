@@ -1,0 +1,48 @@
+Assigmnent 29th jan
+Who Development python programmimg language ?
+python was Created by Guido van Rossum.
+
+Which types of programmimg does python support/\
+
+PYTHON Supports Multiple Programmimg Paradigms, including;
+
+Obect-Oriented programming (OOP)
+imperative programmimg
+Functional Programmimg
+Procedural Programmimg
+Is Python Case Sensitive When Darling With Identified ?
+Yes , Python is Case Sensitive.
+python File Correct Extention ?
+The Correct File Extension For Python File is ".py"
+
+Is python code compiled Or interpreted ?
+
+python Code is interpreted not Compiled.
+Name a few Blocks of Code Used to Defind in python Language ?
+in Python , Function , Classes , Loops, and Conditional Satements are used to defind code structures.
+State a character Used to give Single line Comments in python ?
+in python ,the "#" Symbol is used for single line comments.
+Menyion Function which can help us to find the version of python that we are Currently Working on?
+The sys Module in python provides a Version attribute that can be used to find the version of python that you are currently working on . you Can access it using  sys.version
+What does pip stand for python ?
+"pip"stand for "pip installs packages."
+mention a few bulit-in function in python ?
+Some of the bulit-in function in python are ;
+1. print() -used to display output to the console.
+2. len() -used to get the length of a string, list, tuple, dictionary, or any other iterable.
+3. max() and min () - used to find the maximum and minimum values in a list or any other itrable.
+4. Sum() -Used to find the sum of values in alist or any other iterable.\
+What is the Maximum passible length of as identifier in python ?
+In python , there is no limit to the length of an identifier (varaible, function name , etc .) it can be as long as your system's memory allows.
+What are the benefits of Using Python ?
+The benefits of using python include :
+ease of use , Versatility, large community and rich libraries, cross-platform compatibility , dynamic typing.
+How to install python on windows and set path varaible ?
+TO install python on windows and set the PATH variable;
+Download python from offical website.
+Run installer and select opention add to PATH
+OPen Command prompt and run python--version to check installtion.
+To set PATH manually, edit System Emviroment Variables, and python path to "path" varaible.
+close windows and open new Command prompt to apply Changes.
+Is indentionrequiredin python ?
+yes , indentation is required in python to defind code blocks and improve code readability.
